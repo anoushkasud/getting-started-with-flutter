@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
@@ -14,7 +16,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Container(
           child: Text(
-              "Welcome to $days days of $lan by "), //string interpolation using $ sign or + sign
+              "Welcome to $days days of $lan "), //string interpolation using $ sign or + sign
         ),
       ),
       drawer: Drawer(),
