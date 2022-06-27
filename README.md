@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project. Following https://www.youtube.com/watch?v=j-LOab_PzzU&t=6274s
 
 ## Getting Started
 
